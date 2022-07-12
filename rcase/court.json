@@ -1,0 +1,7 @@
+{ 
+    "courtN" : "ศาลจังหวัดสมุทรสงคราม",
+    "ip" : "10.37.78.12",
+    "dbA" : "D:/DATA2Agenct/access2praxticol.mdb",
+    "dbR" : "D:/DATA2Agenct/dataRRAccess.mdb",
+    "driverA" : "odbc:Driver={Microsoft Access Driver (*.mdb)};"
+}
